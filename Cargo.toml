@@ -1,0 +1,10 @@
+[package]
+name = "dna_mix"
+version = "0.1.0"
+authors = ["Pierre Marijon <pierre@marijon.fr>"]
+
+[dependencies]
+hound = "3.4"
+bio = "*"
+clap = "*"
+rand = "*"
